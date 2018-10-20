@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
+Nombre: 		memolop10
+Edad: 			26
 Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
+Originario de: 		Amsterdam
 Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Profesión:		PATRON
